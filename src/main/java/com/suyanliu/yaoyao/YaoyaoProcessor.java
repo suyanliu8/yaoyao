@@ -26,7 +26,7 @@ import com.sun.tools.javac.util.ListBuffer;
 import com.sun.tools.javac.util.Name;
 import com.sun.tools.javac.util.Names;
 
-@SupportedAnnotationTypes("com.suyanliu.demo.Demo")
+@SupportedAnnotationTypes("com.suyanliu.yaoyao.Yaoyao")
 @SupportedSourceVersion(SourceVersion.RELEASE_8)
 public class YaoyaoProcessor extends AbstractProcessor {
 
